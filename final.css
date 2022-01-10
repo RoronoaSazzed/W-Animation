@@ -1,0 +1,97 @@
+#light1,
+#light2,
+#light3,
+#light4,
+#light5,
+#light6,
+#light7,
+#light8,
+#light9,
+#light10,
+#light11,
+#light12 {
+  animation: lightOne 10s ease-in-out infinite;
+}
+
+#light2 {
+  animation-name: lightTwo;
+}
+#light3 {
+  animation-name: lightThree;
+}
+#light4 {
+  animation-name: lightFour;
+}
+#light5 {
+  animation-name: lightFive;
+}
+#light6 {
+  animation-name: lightSix;
+}
+#light7 {
+  animation-name: lightSeven;
+}
+#light8 {
+  animation-name: lightEight;
+}
+#light9 {
+  animation-name: lightNine;
+}
+#light10 {
+  animation-name: lightTen;
+}
+#light11 {
+  animation-name: lightEleven;
+}
+#light12 {
+  animation-name: lightTwelve;
+}
+
+#dark1,
+#dark2,
+#dark3,
+#dark4,
+#dark5,
+#dark6,
+#dark7,
+#dark8,
+#dark9,
+#dark10,
+#dark11,
+#dark12 {
+  animation: darkOne 10s ease-in-out infinite;
+}
+
+#dark2 {
+  animation-name: darkTwo;
+}
+#dark3 {
+  animation-name: darkThree;
+}
+#dark4 {
+  animation-name: darkFour;
+}
+#dark5 {
+  animation-name: darkFive;
+}
+#dark6 {
+  animation-name: darkSix;
+}
+#dark7 {
+  animation-name: darkSeven;
+}
+#dark8 {
+  animation-name: darkEight;
+}
+#dark9 {
+  animation-name: darkNine;
+}
+#dark10 {
+  animation-name: darkTen;
+}
+#dark11 {
+  animation-name: darkEleven;
+}
+#dark12 {
+  animation-name: darkTwelve;
+}
